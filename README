@@ -1,3 +1,11 @@
+############################################
+### Kaggle project for fakenews
+https://www.kaggle.com/c/fake-news
+
+
+############################################
+### Python environment
+
 name: tensorflow
 channels:
   - conda-forge
